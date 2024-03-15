@@ -1,0 +1,2 @@
+/home/vitorros2/Documentos/github/modelo_esp/build/CMakeFiles/edit_cache.dir
+/home/vitorros2/Documentos/github/modelo_esp/build/CMakeFiles/rebuild_cache.dir
