@@ -2,7 +2,7 @@
   "C_Cpp.intelliSenseEngine": "default",
   "idf.port": "/dev/ttyUSB0",
   "idf.flashType": "UART",
-  "idf.espIdfPath": "/home/esp/v5.2.1/esp-idf",
+  "idf.espIdfPath": "/home/vitorros2/esp/v5.1.3/esp-idf",
   "idf.adapterTargetName": "esp32",
   "idf.toolsPath": "/opt/esp",
   "idf.openOcdConfigs": [
